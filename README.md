@@ -97,12 +97,13 @@ print("Lenght of X_test ",len(X_test))
 ![image](https://github.com/user-attachments/assets/fe518588-0917-4439-b1a6-ac4498ed75c1)
 
 ### Normalized Dataset:
-![image](https://github.com/user-attachments/assets/7998941f-5081-4c7d-ab88-b2fc370d3dff)
+![image](https://github.com/user-attachments/assets/c1ad7857-c09e-4474-92aa-7439d59588ed)
 
 ### Training Data:
-![](./images/training%20.png)
+![image](https://github.com/user-attachments/assets/7998941f-5081-4c7d-ab88-b2fc370d3dff)
 ### Testing Data:
-![](./images/test.png)
+![image](https://github.com/user-attachments/assets/6d8c0445-37b4-4ed9-af18-0bea340d1f00)
+
 
 
 ## RESULT:
